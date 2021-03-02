@@ -1,0 +1,126 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs24.github.io 
+baseurl: "/w21"  
+
+name: "CS24 Winter 2021"
+course: "CS24"
+course_title: "Problem Solving with Computers II"
+title: "UCSB CS24 W21"
+github_url: https://github.com/ucsb-cs24/w21
+qtr: "W21"
+quarter: "Winter 2021"
+lecture_times: "MW 2:00pm - 3:15pm"
+lecture_location: "Online, Zoom meeting link available on Gauchospace"
+lab_times: "Thursdays: 9am, 10am, 11am, 12pm"
+tas: "Bowen Zhang, Lijuan Cheng and Zeyu Deng"
+ulas: "
+Connor Rapelje
+Adarsha Poudel
+Paul Kuang
+"
+class_org:
+   name: ucsb-cs24-kozerawski-w21 
+   url: https://github.com/ucsb-cs24-kozerawski-w21
+   
+lect_repo: TBA
+start_week: 1
+start_date: 2021-01-03 
+num_weeks: 10
+extra_exam_week: true
+
+
+cal_dates: >
+  [
+  {"label":"First day of instructions", "date":"2021-01-04" },
+  {"label":"MLK Day", "date":"2021-01-18" },
+  {"label":"Presidents' Day", "date":"2021-02-15" },
+  {"label":"Last day of instructions", "date":"2021-03-12" },  
+  {"label":"W21 Quarter Ends", "date":"2021-03-19" }          
+  ]
+
+kramdown:
+   parse_block_html: true
+
+exclude:
+   - vendor
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  pa:
+    output: true
+    permalink: /pa/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  -
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: pa
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  -
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
