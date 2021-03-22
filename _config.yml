@@ -5,42 +5,44 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs24.github.io 
-baseurl: "/w21"  
-
-name: "CS24 Winter 2021"
+baseurl: "/s21"  
+instructor: "Diba Mirza"
+name: "CS24 Spring 2020"
 course: "CS24"
 course_title: "Problem Solving with Computers II"
-title: "UCSB CS24 W21"
-github_url: https://github.com/ucsb-cs24/w21
-qtr: "W21"
-quarter: "Winter 2021"
+title: "UCSB CS24 S20"
+github_url: https://github.com/ucsb-cs24/s21
+qtr: "S19"
+quarter: "Spring 2021"
 lecture_times: "MW 2:00pm - 3:15pm"
 lecture_location: "Online, Zoom meeting link available on Gauchospace"
-lab_times: "Thursdays: 9am, 10am, 11am, 12pm"
-tas: "Bowen Zhang, Lijuan Cheng and Zeyu Deng"
-ulas: "
-Connor Rapelje
-Adarsha Poudel
-Paul Kuang
-"
+lab_times: "Thursdays: 9a, 10a"
+tas: "Justin Kasowski and Yingrui Yang"
+ulas: "Jared Flores and Alexis Cole"
 class_org:
-   name: ucsb-cs24-kozerawski-w21 
-   url: https://github.com/ucsb-cs24-kozerawski-w21
+   name: ucsb-cs24-mirza 
+   url: https://github.com/ucsb-cs24-mirza
    
-lect_repo: TBA
+lect_repo: https://github.com/ucsb-cs24-mirza/cs24-s21-lectures
 start_week: 1
-start_date: 2021-01-03 
+start_date: 2021-03-28
 num_weeks: 10
 extra_exam_week: true
 
+instructor_url: https://ucsb-cs24.github.io/instructor
 
 cal_dates: >
   [
-  {"label":"First day of instructions", "date":"2021-01-04" },
-  {"label":"MLK Day", "date":"2021-01-18" },
-  {"label":"Presidents' Day", "date":"2021-02-15" },
-  {"label":"Last day of instructions", "date":"2021-03-12" },  
-  {"label":"W21 Quarter Ends", "date":"2021-03-19" }          
+  {"label":"First day of classes", "date":"2021-03-29" },
+  {"label":"Quiz 1", "date":"2021-04-12" },
+  {"label":"Quiz 2", "date":"2021-04-26" },
+  {"label":"Quiz 3", "date":"2021-05-10" },
+  {"label":"Quiz 4", "date":"2021-05-24" },
+  {"label":"Univ Holiday", "date":"2021-05-31" },
+  {"label":"Drop deadline (no W grade)","date":"2021-04-23" },
+  {"label":"S21 Instruction Ends", "date":"2021-06-04" },  
+  {"label":"Final Exam: 4:00PM - 7:00PM", "date":"2021-06-07" },
+  {"label":"S21 Quarter Ends", "date":"2021-06-11" }          
   ]
 
 kramdown:
@@ -54,10 +56,6 @@ include:
 timezone: America/Los_Angeles
 
 collections:
-  hwk:
-    output: true
-    permalink: /hwk/:path/
-    last_before: false
   lab:
     output: true
     permalink: /lab/:path/

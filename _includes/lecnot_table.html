@@ -13,7 +13,8 @@
   <td class="lect_num" >{{lect.lecture_date}}</td>
   <td class="lect_num" ><a href="{{lect.url | relative_url }}" data-ajax="false">{{ lect.num }}</a></td>
   <td class="lect_ready">{{lect.ready}}</td>
-  <td class="lect_desc" >{{lect.desc }}</td>
+  <td class="lect_desc" >{{lect.desc }}{% if lect.ready%}&nbsp;(<a href="{{lect.pdfurl|relative_url}}">slides</a>){% endif%}{% if lect.annotatedready %}&nbsp;(<a href="{{lect.annotatedpdfurl|relative_url}}">annotated slides</a>){% endif%}</td>
+
  
 </tr>
 

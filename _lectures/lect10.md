@@ -1,24 +1,20 @@
 ---
+lecture_date: 2021-04-28
 num: "lect10"
-lecture_date: 2021-02-08
-desc: "Running time analysis."
-ready: true
+desc: "Big-Oh: Analyzing the efficiency of algorithms (contd)"
+ready: false
+pdfurl: /lectures/CS24_Lecture10.pdf
+annotatedpdfurl: /lectures/CS24_Lecture10_ann.pdf
 annotatedready: false
 ---
-## Relevant topics in the textbook:
-Data Structures and Other Objects Using C++ Chapter 1.2
 
-# Example 1: Stair-counting problem
 
-# Run-time comparison in seconds:
+# Topics
 
-Time in seconds		Interpretation
-2<sup>10</sup>		17 minutes
-2<sup>20</sup>		12 days
-2<sup>30</sup>		32 years
-2<sup>40</sup>		cave paintings
-2<sup>70</sup>		The big bang
+* Big -Oh format definition, Big Omega, Big Theta
+* How to compute Big-Oh? We solved a number of examples
+* Using approximations to upper bound running times in Big-Oh analysis
 
-# Practical code examples
+
 
 
