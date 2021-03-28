@@ -1,7 +1,7 @@
 ---
 lecture_date: 2021-04-12
 num: "lect05"
-desc: "What are pointers for? One application: Linked Lists "
+desc: "Big 3: Linked Lists contd. "
 ready: false
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf

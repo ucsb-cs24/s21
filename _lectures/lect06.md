@@ -1,7 +1,7 @@
 ---
 lecture_date: 2021-04-14
 num: "lect06"
-desc: "Big 3, Operator Oveloading, GDB, intro to pa01"
+desc: "Operator Oveloading, intro to pa01"
 ready: false
 pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
