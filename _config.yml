@@ -20,10 +20,10 @@ lab_times: "Thursdays: 9a, 10a"
 tas: "Justin Kasowski and Yingrui Yang"
 ulas: "Jared Flores and Alexis Cole"
 class_org:
-   name: ucsb-cs24-mirza 
-   url: https://github.com/ucsb-cs24-mirza
+   name: ucsb-cs24-mirza-s21 
+   url: https://github.com/ucsb-cs24-mirza-s21
    
-lect_repo: https://github.com/ucsb-cs24-mirza/cs24-s21-lectures
+lect_repo: https://github.com/ucsb-cs24-mirza-s21/cs24-s21-lectures
 start_week: 1
 start_date: 2021-03-28
 num_weeks: 10
