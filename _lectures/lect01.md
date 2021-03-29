@@ -10,7 +10,8 @@ annotatedready: false
 
 # Code from lecture
 
-[{{site.lect_repo}}/tree/master/{{page.num}}]({{site.lect_repo}}/tree/master/{{page.num}})
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
+
 
 # Topics
 
