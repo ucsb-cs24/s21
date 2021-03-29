@@ -123,7 +123,7 @@ A final note:  the emphasis on collaboration in this course does not necessarily
 
 Most of the programming work in this course will be done using a style of programming known as &quot;pair programming&quot;. This is where two people (in rare cases, three) work together at the same terminal to solve a programming problem.
 It is similar, in some ways, to having a &quot;lab partner&quot; in a Biology, Chemistry or Physics course.
-For the assignments where pair programming is used, it is required, not optional. Here's why:
+For the assignments where pair programming is mentioned, it is optional. But here's why we recommend it:
 * Pair programming is a real-world skill that is highly valued by employers.
 * Many companies use pair programming extensively, including several local area employers of UCSB CS graduates.
 * Companies that employ UCSB CS and CE grads tell us that our graduates have good technical skills but need better skills and working in pairs and groups to solve problems.
