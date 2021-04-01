@@ -212,7 +212,7 @@ git commit -m "Initial version of lab00"
 * Finally sync your latest changes with your repo on https://github.com using git push
 
 ```
-git push origin master
+git push origin main
 ```
 
 Navigate to your repo and refresh your browser. You should see the new file that you added to your repo appear in your repo online.
