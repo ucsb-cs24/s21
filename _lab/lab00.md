@@ -49,6 +49,16 @@ Log into our class site on [www.gradescope.com](https://www.gradescope.com/): {{
 
 # Implement and submit a simple C++ program 
 
+## Download and install VSCode on your local computer
+
+Download and VSCode at this link: <https://code.visualstudio.com/download>
+
+If you have MAC OS or Linux with g++ installed, skip to Step 1A below
+
+If you have a Windows system and don't have a g++ compiler, follow this tutorial to use your local version of VSCode with the g++ compiler on the CSIL Servers: <https://code.visualstudio.com/docs/remote/ssh-tutorial>
+
+If you would like to use vim or emacs instead of VSCode follow the instructions in the next section.
+
 ## Open a Terminal and ssh into CSIL Servers
 
 Open a **terminal window**, which will be the environment you use to write, compile, and run your programs.
