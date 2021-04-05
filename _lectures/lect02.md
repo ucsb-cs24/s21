@@ -5,7 +5,7 @@ desc:  "C++ Memory Model, Pointers and References, Review (C++ classes)"
 ready: true
 pdfurl: /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
-annotatedready: false
+annotatedready: true
 
 ---
 
