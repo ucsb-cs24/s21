@@ -1,10 +1,10 @@
 ---
 lecture_date: 2021-04-05
 num: "lect03"
-desc: "Where does memory go? Heap vs Stack"
-ready: false
-pdfurl:  /lectures/CS24_Lecture2.pdf
-annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
+desc: "Where does memory go? Heap vs Stack + Pointer Practice"
+ready: true
+pdfurl:  /lectures/CS24_Lecture3.pdf
+annotatedpdfurl: /lectures/CS24_Lecture3_ann.pdf
 annotatedready: false
 ---
 
