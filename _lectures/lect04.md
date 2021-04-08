@@ -5,7 +5,7 @@ desc: "Where does memory go? Heap vs Stack + What are pointers for? One applicat
 ready: true
 pdfurl: /lectures/CS24_Lecture4.pdf
 annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
-annotatedready: false
+annotatedready: true
 
 ---
 
