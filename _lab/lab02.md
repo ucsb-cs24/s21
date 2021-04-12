@@ -29,7 +29,7 @@ All work submitted for this lab should be your own. If you are using any hints f
 
 5. Open a terminal window and log into the correct machine.
 
-6. Change into your CS 16 directory
+6. Change into your CS 24 directory
 
 Remember to push your work to github at the end of EVERY work session. That way, both partners always have access to the latest version of the code even if the code is being developed on one partner's CoE account.
 
@@ -45,12 +45,12 @@ You should see a listing of several C++ files. Please copy those files into your
 Typing the list (ls) command should show you the following files in your current directory
 
 ```
-[dimirza@csil-03 lab05_agaucho_alily]$ ls
+[dimirza@csil-03 lab02_agaucho_alily]$ ls
 areaOfBoxTest.cpp         initBoxTest.cpp            pointToStringTest.cpp  shapeFuncs.h  utility.cpp
 initPointTest.cpp          README.md              shapes.h      utility.h
 boxesApproxEqualTest.cpp  Makefile                                        tddFuncs.cpp
 distanceBetweenTest.cpp   pointsApproxEqualTest.cpp  shapeFuncs.cpp         tddFuncs.h
-[dimirza@csil-03 lab05_agaucho_alily]$
+[dimirza@csil-03 lab02_agaucho_alily]$
 ```
 
 
@@ -202,7 +202,7 @@ At that point, you are ready to try submitting on gradescope.
 ## Step 5: Submitting via gradescope
 
 
-Submit all the cpp files to lab05 assignment on gradescope. Then visit gradescope and check that you have a correct score. If you are working with a partner, make sure both of you join a team on gradescope, otherwise only one of you will get credit for the lab
+Submit all the cpp files to lab02 assignment on gradescope. Then visit gradescope and check that you have a correct score. If you are working with a partner, make sure both of you join a team on gradescope, otherwise only one of you will get credit for the lab
 
 * You must check that you have followed these style guidelines:
 
