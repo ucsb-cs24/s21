@@ -3,8 +3,8 @@ layout: lab
 num: lab02
 ready: false
 desc: "Working with Pointers"
-assigned: 2021-04-08 15:00:00.00-8
-due: 2021-04-14 21:59:00.00-8
+assigned: 2021-04-15 15:00:00.00-8
+due: 2021-04-21 21:59:00.00-8
 ---
 <div markdown="1">
 
