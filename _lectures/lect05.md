@@ -2,7 +2,7 @@
 lecture_date: 2021-04-12
 num: "lect05"
 desc: "Big 3: Linked Lists contd. "
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
 annotatedready: false 
@@ -10,7 +10,7 @@ annotatedready: false
 ---
 
 # Code from lecture
-[{{site.lect_repo}}/tree/master/lec-05]({{site.lect_repo}}/tree/master/lec-05)
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 
 ## Lesson plan

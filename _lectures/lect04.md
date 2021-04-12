@@ -9,6 +9,9 @@ annotatedready: true
 
 ---
 
+# Code from lecture
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
+
 # Topics
 * Dynamic memory allocation: new and delete
 * Stack vs. heap
