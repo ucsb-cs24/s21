@@ -3,8 +3,8 @@ layout: lab
 num: lab03
 ready: false
 desc: "Implementing a linked list"
-assigned: 2021-04-15 15:00:00.00-8
-due: 2020-04-21 21:59:00.00-8
+assigned: 2021-04-22 9:00:00.00-8
+due: 2020-04-28 21:59:00.00-8
 ---
 
 
