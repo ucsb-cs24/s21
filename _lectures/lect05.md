@@ -5,7 +5,7 @@ desc: "Big 3: Linked Lists contd. "
 ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
-annotatedready: false 
+annotatedready: true 
 
 ---
 
