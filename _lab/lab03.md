@@ -34,7 +34,7 @@ All work submitted for this lab should be your own. If you are using any hints f
 
 Visit the following web link—you may want to use “right-click” (or “control-click” on Mac) to bring up a window where you can open this in a new window or tab:
 
-[Lab03 Files](https://github.com/ucsb-cs24-mirza-s21/lab03_data)
+[Lab03 Files](https://github.com/ucsb-cs24-mirza-s21/lab03_data/tree/yyang)
 
 You should see a listing of several C++ files. Please copy those files into your local lab03 Github repo directory.
 
