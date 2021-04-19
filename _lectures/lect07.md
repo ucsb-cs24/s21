@@ -5,7 +5,7 @@ desc: "Binary Search Trees - Part 1"
 ready: true
 pdfurl: /lectures/CS24_Lecture7.pdf
 annotatedpdfurl: /lectures/CS24_Lecture7_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 # Code from lecture
