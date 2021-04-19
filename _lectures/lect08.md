@@ -2,13 +2,13 @@
 lecture_date: 2021-04-21
 num: "lect08"
 desc: "Binary Search Trees - Part 2"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture8.pdf
 annotatedpdfurl: /lectures/CS24_Lecture8_ann.pdf
 annotatedready: false	
 ---
 # Code from lecture
-[{{site.lect_repo}}/tree/master/lec-08]({{site.lect_repo}}/tree/master/lec-08)
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 # Topics
 * Binary trees
