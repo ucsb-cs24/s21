@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Implementing a linked list"
 assigned: 2021-04-22 9:00:00.00-8
 due: 2020-04-28 21:59:00.00-8
@@ -17,8 +17,10 @@ By the time you have completed this lab, you should be able to
 * Implement functions that process linked lists
 
 # This lab must be done solo
+# Academic Honesty 
+All work submitted for this lab should be your own. If you are using any hints from a previous offering of this course that was posted publicly by a CS24 instructor, you must cite your source. 
 
-## Step by Step Instructions
+# Step by Step Instructions
 
 ## Step 1: Create a directory and get files
 
@@ -30,11 +32,14 @@ By the time you have completed this lab, you should be able to
 * Change into your {{page.num}} git directory
 * Now copy all of the files for this lab from the starter-code directory to your git directory:
 
-```
-cp ~/cs24/cs24-s20-starter-code/{{page.num}}/* ./
-```
+Visit the following web link—you may want to use “right-click” (or “control-click” on Mac) to bring up a window where you can open this in a new window or tab:
 
-Verify you got all the files and try to compile them as follows:
+[Lab03 Files](https://github.com/ucsb-cs24-mirza-s21/lab03_data/tree/yyang)
+
+You should see a listing of several C++ files. Please copy those files into your local lab03 Github repo directory.
+
+Typing the list (ls) command should show you the following files in your current directory:
+
 
 ```
 -bash-4.2$ ls
