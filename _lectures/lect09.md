@@ -2,14 +2,14 @@
 lecture_date: 2021-04-26
 num: "lect09"
 desc: "Big-Oh: Analyzing the efficiency of algorithms"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture9.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
 annotatedready: false
 ---
 
 ## Code written in class
-[{{site.lect_repo}}/tree/master/lec-09]({{site.lect_repo}}/tree/master/lec-09)
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 # Topics
 
