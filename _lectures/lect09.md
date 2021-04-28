@@ -5,7 +5,7 @@ desc: "Big-Oh: Analyzing the efficiency of algorithms"
 ready: true
 pdfurl: /lectures/CS24_Lecture9.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
