@@ -41,17 +41,11 @@ cd ~/cs24
 git clone git@github.com:ucsb-cs24-s20/lab04_jgaucho_alily.git
 ```
 
-Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code
-
-```
-cd ~/cs24/cs24-s20-starter-code/
-git pull
-cd ~/cs24/lab04_jgauch_alily/
-```
+Use any method to download the files from 'https://github.com/ucsb-cs24-mirza/cs24-s20-starter-code/tree/master/lab04'. 
 There are three required files to copy from the class account this week. Get them all at once:
 
-
 Verify you got all the files and try to compile them as follows:
+
 ```
 -bash-4.3$ ls
 intbst.cpp  intbst.h  testbst.cpp
