@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab04
-ready: false
+ready: true
 desc: "Binary Search Tree"
 assigned: 2021-04-29 9:00:00.00-8
 due: 2021-05-05 21:59:00.00-8
