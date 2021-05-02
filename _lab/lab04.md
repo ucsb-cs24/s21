@@ -193,8 +193,7 @@ In a file named test_intbst.cpp, include code to test all the functions that you
 
 # Step 6: Submit your revised intbst.cpp, test_intbst.cpp and intbst.h
 
-You are allowed to modify intbst.h, though you should not need to, so submit both intbst.cpp and intbst.h to Gradescope for a grade out of 95. The remaining 5 points will be awarded manually by a cs24 staff after checking the coverage of your testbench.
-
+You are allowed to modify intbst.h, though you should not need to, so submit both intbst.cpp and intbst.h to Gradescope for a grade out of 100. 
 # Optional Extra Challenge
 
 AFTER you have completed the main lab, you may modify it for extra credit by converting your BST to a generic data structure. For convenience, we will not change any of the file or data structure names, but your structure should be useable as IntBST<T> where T is a type that can be compared with <, >, etc. This could include double, char, or any other basic type. There is a separate Gradescope submission portal for this extra credit assignment. Make sure to have a full-credit submission on the main assignment's Gradescope before working on this part.
