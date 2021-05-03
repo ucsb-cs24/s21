@@ -5,7 +5,7 @@ desc: "Analysis of the running time of BST operations"
 ready: true
 pdfurl: /lectures/CS24_Lecture11.pdf
 annotatedpdfurl: /lectures/CS24_Lecture11_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 
