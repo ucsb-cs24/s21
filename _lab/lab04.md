@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab04
-ready: false
+ready: true
 desc: "Binary Search Tree"
 assigned: 2021-04-29 9:00:00.00-8
 due: 2021-05-05 21:59:00.00-8
@@ -32,24 +32,11 @@ If you are working with a partner, select a pilot, log into the CSIL machines.
 
 * The pilot should add the navigator as a collaborator on github, and the navigator should accept the request to join the repo. See instructions in previous labs
 
-## Step 1b: Clone your gitrepo and get the starter code
+## Step 1b: Get the starter code
 
-* Clone your repo in your cs24 directory on CSIL. If your repo is called lab04_jgaucho_alily, type the following commands:
+Lab04: starter code <https://github.com/ucsb-cs24-mirza-s21/lab04_data>
 
-```
-cd ~/cs24
-git clone git@github.com:ucsb-cs24-s20/lab04_jgaucho_alily.git
-```
-
-Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code
-
-```
-cd ~/cs24/cs24-s20-starter-code/
-git pull
-cd ~/cs24/lab04_jgauch_alily/
-```
 There are three required files to copy from the class account this week. Get them all at once:
-
 
 Verify you got all the files and try to compile them as follows:
 ```
@@ -206,8 +193,7 @@ In a file named test_intbst.cpp, include code to test all the functions that you
 
 # Step 6: Submit your revised intbst.cpp, test_intbst.cpp and intbst.h
 
-You are allowed to modify intbst.h, though you should not need to, so submit both intbst.cpp and intbst.h to Gradescope for a grade out of 95. The remaining 5 points will be awarded manually by a cs24 staff after checking the coverage of your testbench.
-
+You are allowed to modify intbst.h, though you should not need to, so submit both intbst.cpp and intbst.h to Gradescope for a grade out of 100. 
 # Optional Extra Challenge
 
 AFTER you have completed the main lab, you may modify it for extra credit by converting your BST to a generic data structure. For convenience, we will not change any of the file or data structure names, but your structure should be useable as IntBST<T> where T is a type that can be compared with <, >, etc. This could include double, char, or any other basic type. There is a separate Gradescope submission portal for this extra credit assignment. Make sure to have a full-credit submission on the main assignment's Gradescope before working on this part.
