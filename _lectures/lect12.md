@@ -2,7 +2,7 @@
 lecture_date: 2021-05-05
 num: "lect12"
 desc: "Stacks, C++ STL "
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture12.pdf
 annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
 annotatedready: false
