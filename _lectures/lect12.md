@@ -5,11 +5,12 @@ desc: "Stacks, C++ STL "
 ready: true
 pdfurl: /lectures/CS24_Lecture12.pdf
 annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
-[{{site.lect_repo}}/tree/master/lec-12]({{site.lect_repo}}/tree/master/lec-12)
+
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 
 
