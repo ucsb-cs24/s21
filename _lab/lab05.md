@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Evaluating expressions with stacks"
 assigned: 2021-05-13 15:00:00.00-8
 due: 2021-05-19 21:59:00.00-8
