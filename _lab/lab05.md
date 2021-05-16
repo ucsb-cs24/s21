@@ -27,11 +27,8 @@ Select a pilot, log into the CSIL machines.
 
 ## Step 1: Get the starter code
 
-Copy the starter code from the following directory on CSIL:
-
-```
-/cs/faculty/dimirza/cs24/cs24-s20-starter-code/lab05
-```
+Get the starter code from this repo:
+<https://github.com/ucsb-cs24-mirza-s21/lab05_data>
 
 Check that you have the following files
 
