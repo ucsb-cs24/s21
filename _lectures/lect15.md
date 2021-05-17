@@ -2,7 +2,7 @@
 lecture_date: 2021-05-17
 num: "lect15"
 desc: "Heaps"
-ready: false
+ready: true
 pdfurl: /lectures/CS24_Lecture15.pdf
 annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
 annotatedready: false
