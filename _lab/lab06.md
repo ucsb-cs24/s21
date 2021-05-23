@@ -22,25 +22,21 @@ This lab may be done with a partner
 
 Please complete the following two surveys to receive 1% extra credit on your overall grade. Each survey is worth 0.5%
 
-## Survey 1: Complete the TA/Mentor evaluations
-This is an anonymous optional survey. 
 
-Here is the link to the survey:
-[Please click on this link to complete](https://bit.ly/ULA-Evaluation-S20)
-
-## Survey 2: Complete the TA/Mentor evaluations
+## Survey: Complete the TA/Mentor evaluations
 
  This is an anonymous survey but its setup in a way that at the end you can still get credit for filling it. At the end of the survey you are directed to a separate survey where you should enter your credentials to get credit.
 
 Survey to get your feedback about the CS24 curriculum:
 [https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF](https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF)
 
+The survey counts towards 4% of the grade for this lab
 
 ## Step 1: Get the starter code
 Use scp to copy the starter code from CSIL from the following directory:
-```
-/cs/faculty/dimirza/cs24/cs24-s20-starter-code/lab06
-```
+
+[Lab06-data](https://github.com/ucsb-cs24-mirza-s21/lab06_starter_code)
+
 
 You should have the following files:
 
