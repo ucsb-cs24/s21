@@ -5,7 +5,7 @@ desc: "Priority queues, Comparison classes"
 ready: true
 pdfurl: /lectures/CS24_Lecture16.pdf
 annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
-annotatedready: false
+annotatedready: true
 
 ---
 

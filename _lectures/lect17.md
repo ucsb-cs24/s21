@@ -5,7 +5,7 @@ desc: "Comparison classes with application to sorting"
 ready: true
 pdfurl: /lectures/CS24_Lecture17.pdf
 annotatedpdfurl: /lectures/CS24_Lecture17_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Topics
 
