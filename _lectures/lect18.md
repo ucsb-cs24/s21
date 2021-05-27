@@ -5,7 +5,7 @@ desc: "Sorting, data structure selection + interview practice "
 ready: true
 pdfurl: /lectures/CS24_Lecture18.pdf
 annotatedpdfurl: /lectures/CS24_Lecture18_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Topics
 Speeding up an algorithm for soring a forest of bsts using appropriate data structures.
