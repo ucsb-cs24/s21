@@ -1,8 +1,8 @@
 ---
 lecture_date: 2021-06-02
 num: "lect19"
-desc: "Final wrap up"
-ready: false
+desc: "More interview practice and final wrap up"
+ready: true
 pdfurl: /lectures/CS24_Lecture19.pdf
 annotatedpdfurl: /lectures/CS24_Lecture19_ann.pdf
 annotatedready: false

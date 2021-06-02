@@ -38,5 +38,12 @@ title: "CS 24: Problem Solving with Computers-II , Spring 21, Mirza"
 </div>
 
 
+{% include collapse-button.html label="Exams" id="exams" %}
+<div class="collapse" id="exams">
+ <div class="card card-body">
+  {%include exam_table.html %}
+ </div>
+</div>
+
 
 
