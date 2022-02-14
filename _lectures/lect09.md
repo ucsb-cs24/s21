@@ -1,7 +1,7 @@
 ---
 lecture_date: 2021-04-26
 num: "lect09"
-desc: "Big-Oh: Analyzing the efficiency of algorithms"
+desc: "Big-O: Analyzing the efficiency of algorithms"
 ready: true
 pdfurl: /lectures/CS24_Lecture9.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
